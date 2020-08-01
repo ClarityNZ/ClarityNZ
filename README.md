@@ -1,6 +1,8 @@
 ### Welcome 
 I'm Clarity, a 19 year old Software Development student from New Zealand
+
 I'm currently studying c# and Web Development, with a bit of cheat development in my spare time
+
 If you want to reach me you can do so on my [Steam](https://steamcommunity.com/id/ClarityNZ)
 Thanks for stopping by!
 
