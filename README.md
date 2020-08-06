@@ -1,3 +1,4 @@
+![Hello there](https://i.imgur.com/mpHTBwz.gif)
 ### Welcome 
 I'm Clarity, a 19 year old Software Development student from New Zealand
 
