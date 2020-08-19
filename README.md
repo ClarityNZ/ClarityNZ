@@ -1,6 +1,6 @@
 ![Hello there](https://i.imgur.com/mpHTBwz.gif)
 ### Welcome 
-I'm Clarity, a 19 year old Software Development student from New Zealand
+I'm Clarity, a 20 year old Software Development student from New Zealand
 
 I'm currently studying Node.js and Web Development
 
