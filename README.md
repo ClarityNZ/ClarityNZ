@@ -6,7 +6,6 @@ I'm currently studying C# and Unity, with an interest in the game modding scene.
 
 If you want to reach me you can do so on my [Steam](https://steamcommunity.com/id/ClarityNZ)
 Thanks for stopping by!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarityNZ)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ClarityNZ/ClarityNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
