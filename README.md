@@ -1,6 +1,6 @@
 ![Hello there](https://i.imgur.com/mpHTBwz.gif)
 ### Welcome 
-I'm Clarity, a 20 year old Self Taught Software Developer from New Zealand
+I'm Clarity, a 21 year old Self Taught Software Developer from New Zealand
 
 I'm currently studying C# and Unity, with an interest in the game modding scene.
 
